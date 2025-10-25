@@ -1,12 +1,12 @@
 # DevOps_Complete
-From Creating Application to Deploy complete process 
+From Creating Application to Deploy complete process (Through EC2 instance)
 
 
 **STEP 1 :**
-Creating a web Page for todo list
+Write a code to Create a web Page for todo list
 
 **STEP 2**
-pushed code to git 
+pushcode to git 
 
 **STEP 3**
 
